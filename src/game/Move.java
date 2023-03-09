@@ -1,9 +1,7 @@
 package game;
 
 /**
- * @author {"12620001020 - Aniket Das", "12620001110 - Ronit Das", "12620001172 - Tabassum Haque"}
- *
- * ${AI Assignment}
+ * @author Aniket Das
  */
 
 import utils.Constants;
